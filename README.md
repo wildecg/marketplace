@@ -1,2 +1,7 @@
 # marketplace
-e-commerce, market, card trading
+## Related
+* e-commerce
+* market
+* card trading
+* buy/sell tokens
+* buy cards at the releases
