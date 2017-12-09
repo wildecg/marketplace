@@ -5,3 +5,5 @@
 * card trading
 * buy/sell tokens
 * buy cards at the releases
+* inner economy (tokens?)
+* ICO
